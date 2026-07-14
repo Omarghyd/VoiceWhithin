@@ -1,0 +1,40 @@
+  USER
+
+      uploads writing
+      answers questions
+      edits content
+      approves drafts
+
+               │
+               ▼
+
+        Voice Learning Engine
+
+               │
+        learns preferences
+        builds voice model
+        stores memory
+
+               │
+               ▼
+
+         Voice Profile
+
+               │
+               ▼
+
+      Generate Writing
+
+               │
+               ▼
+
+   User edits and gives feedback
+
+               │
+               └──────────────┐
+                              │
+                              ▼
+
+                     Learn Again
+
+No LOop, No GAIN!
