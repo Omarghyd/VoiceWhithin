@@ -1,0 +1,35 @@
+                Browser
+
+                    │
+
+                    ▼
+
+             Entry Point
+
+                    │
+
+                    ▼
+
+                Router
+
+                    │
+
+                    ▼
+
+                 Pages
+
+                    │
+
+                    ▼
+
+            Business Logic
+
+                    │
+
+         ┌──────────┴──────────┐
+
+         ▼                     ▼
+
+    Database                External APIs
+
+                             (OpenAI etc.)
