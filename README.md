@@ -17,4 +17,3 @@ Vision
 
 Teach AI how someone communicates and then add a loop to allow them to delegate their style.
 
-Not just how they write.
